@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "hello-world",
+        "data-types",
+        "exponents",
+        "take-input",
+        "arrays",
+        "string-to-int"
+    ]
+}
