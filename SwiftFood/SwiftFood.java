@@ -29,7 +29,7 @@ public class SwiftFood {
         //object creation
         // customer is reference variable as it refers to object
         Customer customer = new Customer();
-        Food food = new Food();
+        //Food food = new Food();
 
         // Assigning values to the instance variables
 		customer.customerId = "C101";
