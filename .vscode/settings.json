@@ -5,6 +5,8 @@
         "exponents",
         "take-input",
         "arrays",
-        "string-to-int"
+        "string-to-int",
+        "typecasting",
+        "SwiftFood"
     ]
 }
