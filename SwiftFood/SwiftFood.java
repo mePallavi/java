@@ -15,6 +15,13 @@ class Customer {
 	}
 }
 
+class Food {
+    String foodName;
+    String cuisine;
+    String foodType;
+    int quantityAvailable;
+    double unitPrice;
+}
 
 public class SwiftFood {
     public static void main(String[] args) 
@@ -22,6 +29,7 @@ public class SwiftFood {
         //object creation
         // customer is reference variable as it refers to object
         Customer customer = new Customer();
+        Food food = new Food();
 
         // Assigning values to the instance variables
 		customer.customerId = "C101";
@@ -29,6 +37,8 @@ public class SwiftFood {
 		customer.contactNumber = 7856341287L;
 		customer.address = "D089, St. Louis Street, Springfield, 62729";
 
-        customer.displayCustomerDetails();        
+        customer.displayCustomerDetails();
+        
+        
     }
 }
