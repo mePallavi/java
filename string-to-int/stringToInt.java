@@ -25,6 +25,7 @@ public class stringToInt {
         String str = "age: 47";
 
         //regular expression; output is still a string but it contains only digits(1st arg), replacing other substrings with the 2nd arg 
+        // \\D just gets the digits
         str = str.replaceAll("\\D+", ""); //"age: 47" -> "47"
 
         int num = Integer.parseInt(str); // "47" -> 47

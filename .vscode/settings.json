@@ -1,12 +1,13 @@
 {
     "java.project.sourcePaths": [
-        "hello-world",
-        "data-types",
-        "exponents",
-        "take-input",
-        "arrays",
-        "string-to-int",
         "typecasting",
-        "SwiftFood"
+        "take-input",
+        "string-to-int",
+        "hello-world",
+        "exponents",
+        "data-types",
+        "arrays",
+        "SwiftFood",
+        "ascii-art"
     ]
 }
