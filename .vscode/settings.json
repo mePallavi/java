@@ -5,11 +5,12 @@
         "string-to-int",
         "methods",
         "hello-world",
+        "fileReader",
         "exponents",
         "data-types",
         "ascii-art",
         "arrays",
         "SwiftFood",
-        "fileReader"
+        "arrayList"
     ]
 }
