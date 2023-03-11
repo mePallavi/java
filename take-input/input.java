@@ -8,5 +8,7 @@ public class input {
 
         String name = scan.nextLine();
         System.out.println(name);
+
+        scan.close();
     }
 }
