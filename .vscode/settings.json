@@ -3,12 +3,13 @@
         "typecasting",
         "take-input",
         "string-to-int",
+        "methods",
         "hello-world",
         "exponents",
         "data-types",
         "ascii-art",
         "arrays",
         "SwiftFood",
-        "methods"
+        "fileReader"
     ]
 }
