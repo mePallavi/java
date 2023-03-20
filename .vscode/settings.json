@@ -10,7 +10,8 @@
         "data-types",
         "ascii-art",
         "arrays",
+        "arrayList",
         "SwiftFood",
-        "arrayList"
+        "exceptions"
     ]
 }
