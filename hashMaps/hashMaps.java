@@ -26,7 +26,9 @@ public class hashMaps {
         /*Check if key is present */
         System.out.println(passwords.containsKey("hello"));    //returns true/false
 
-        /*Other functions are size(), replace(key, value) etc. */
+        /*Other functions are size(), replace(key, value) etc.
+         * values() to get all values, keySet() to get all keys
+         */
 
     }
 }
