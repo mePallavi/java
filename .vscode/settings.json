@@ -7,11 +7,12 @@
         "hello-world",
         "fileReader",
         "exponents",
+        "exceptions",
         "data-types",
         "ascii-art",
         "arrays",
         "arrayList",
         "SwiftFood",
-        "exceptions"
+        "hashSets"
     ]
 }
